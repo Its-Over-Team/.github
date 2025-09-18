@@ -23,7 +23,7 @@ A <strong>Venturus</strong> nos propôs o desenvolvimento de uma API REST para s
 - Módulo de doações para a ONG.
 - Autenticação e rotas de administração protegidas.
 
-➡️ **[Confira o repositório do projeto para mais detalhes técnicos.]()**
+➡️ **[Confira o repositório do projeto para mais detalhes técnicos.](https://github.com/Its-Over-Team/Sistema-Adocao)**
 
 ---
 
